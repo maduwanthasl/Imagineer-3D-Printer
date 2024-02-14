@@ -9,3 +9,4 @@
 - Core components: Stepper motors, microcontroller, extruder, and frame, powered by standard electrical outlets.
 - Primary goal: Empowering makers to fabricate customized 3D objects with precision and creativity.
 - Meticulous construction process: Rigorous part selection, prototyping, and iterative refinement for superior print quality.
+
