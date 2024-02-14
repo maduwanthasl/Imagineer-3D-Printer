@@ -31,4 +31,49 @@ https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-d
 
 
 ## How does the journey go on
+## Bill of Materials
 
+| Component                                                        | Details                                                         | Quantity | Unit Price (Rs) | Total Price (Rs) |
+|------------------------------------------------------------------|-----------------------------------------------------------------|----------|-----------------|------------------|
+| 4040 Double T Slot Aluminium Extrusion Profile Silver 2m         | Length (mm) : 2000mm                                           | 1        | 13,000.00       | 13,000.00        |
+| M5 Stainless Steel Hex Socket Head Cap Screw Allen Bolt          | Length (mm) : 8mm                                               | 1        | 23.00           | 23.00            |
+| 8mm Short Linear Bearing                                        | LM8UU                                                           | 2        | 200.00          | 400.00           |
+| GT2 20T 20 Teeth 5mm Bore 6mm Width Timing Pulley               | Color : Silver                                                  | 1        | 180.00          | 180.00           |
+| GT2 20T (No Teeth) 5mm Bore 6mm Width Idler Timing Pulley       | Color : Silver                                                  | 1        | 360.00          | 360.00           |
+| TWO TREES Dual Drive BMG Extruder Btech Cloned (Right) Black    |                                                                 | 1        | 3,300.00        | 3,300.00         |
+| 8mm Linear Shaft Smooth Shaft Rod                               | Length (mm) : 1000mm                                            | 3        | 1,800.00        | 5,400.00         |
+| 8mm Solid Polymer Bearing Bushing RJMP-01-08                    |                                                                 | 10       | 250.00          | 2,500.00         |
+| T8 Lead Screw ACME Thread OD 8mm (Lead 8mm) with Nut            | Length (mm) : 500mm                                             | 2        | 1,400.00        | 2,800.00         |
+| 4pcs M4 Medium Hand Twist Bed Leveling Nut Die Mold Spring       | (Yellow Blue) Screw Kit                                         | 1        | 600.00          | 600.00           |
+| 24V 15A Power Supply SMPS (Aluminum Cover - with Fan)           |                                                                 | 1        | 5,100.00        | 5,100.00         |
+| M5 T Slot Nut for 20 Aluminium Extrusion                        |                                                                 | 30       | 38.00           | 1,140.00         |
+| NSK 625ZZ Deep Groove Ball Bearing 5x16x5mm (Indonesia)         |                                                                 | 1        | 520.00          | 520.00           |
+| D14L25 Rigid Shaft Coupling Clamp                               | Coupling : 5x8mm                                                | 2        | 180.00          | 360.00           |
+| M3 Stainless Steel Hex Socket Head Cap Screw Allen Bolt          | Length (mm) : 12mm                                              | 45       | 14.50           | 652.50           |
+| M3 Black Grade 12.9 Alloy Steel Hex Flat Socket Head Countersunk CSK Screw| Length (mm) : 5mm                  | 10       | 13.00           | 130.00           |
+| M3 Black Grade 12.9 Alloy Steel Hex Flat Socket Head Countersunk CSK Screw| Length (mm) : 10mm                 | 10       | 14.00           | 140.00           |
+| M3 Black Grade 12.9 Alloy Steel Hex Flat Socket Head Countersunk CSK Screw| Length (mm) : 15mm                 | 10       | 17.50           | 175.00           |
+| M3 Stainless Steel Hex Socket Head Cap Screw Allen Bolt          | Length (mm) : 8mm                                               | 12       | 12.50           | 150.00           |
+| M5 Big Corner Angle Bracket for 20 Aluminium Extrusion           |                                                                 | 6        | 140.00          | 840.00           |
+| M5 Low Profile Black Grade 12.9 Alloy Steel Hex Socket Screws   | Length (mm) : 8mm                                               | 80       | 12.00           | 960.00           |
+| M3 M3x4x4.2 Knurled Copper/Brass Insert 10pcs Set               |                                                                 | 1        | 180.00          | 180.00           |
+| GT2 (Rubber with Fiberglass) 6mm Open Timing Belt 1m            |                                                                 | 4        | 290.00          | 1,160.00         |
+| M3 Stainless Steel Hex Socket Head Cap Screw Allen Bolt          | Length (mm) : 30mm                                              | 31       | 16.50           | 511.50           |
+| M5 Low Profile Black Grade 12.9 Alloy Steel Hex Socket Screws   | Length (mm) : 25mm                                              | 4        | 19.00           | 76.00            |
+| M3 Stainless Steel Hex Socket Head Cap Screw Allen Bolt          | Length (mm) : 6mm                                               | 5        | 11.00           | 55.00            |
+| M5 Stainless Steel Hex Nut                                      |                                                                 | 20       | 10.00           | 200.00           |
+| 3D Print Trimming Deburring Knife with 10pcs Blade Kit          |                                                                 | 1        | 2,450.00        | 2,450.00         |
+| M3 Stainless Steel Hex Socket Head Cap Screw Allen Bolt          | Length (mm) : 30mm                                              | 25       | 16.50           | 412.50           |
+| M3 Stainless Steel Hex Nut                                      |                                                                 | 25       | 7.50            | 187.50           |
+| M3 Stainless Steel Plain Flat Washer                             |                                                                 | 25       | 7.50            | 187.50           |
+| 8mm Linear Shaft Smooth Shaft Rod                               | Length (mm) : 1000mm                                            | 1        | 1,800.00        | 1,800.00         |
+| 8mm 1 Bag (10.5m/Bag) Spiral Wire Wrapping Tube Cable Sleeves   | Color : Black                                                  | 1        | 400.00          | 400.00           |
+| eSUN PLA+ 3D Printer Filament 1.75mm 1kg                       | Color : White                                                  | 1        | 5,500.00        | 5,500.00         |
+| M5 Low Profile Black Grade 12.9 Alloy Steel Hex Socket Screws   | Length (mm) : 10mm                                              | 50       | 12.00           | 600.00           |
+| M5 Stainless Steel Split Lock Spring Washer                     |                                                                 | 20       | 7.00            | 140.00           |
+| 5pcs M3 Small Full Metal Hand Twist Bed Leveling Nut Spring Screw Kit|                                                          | 1        | 370.00          | 370.00           |
+| MK8 Copper/Brass Nozzle 1.75mm                                 | Size : 0.2mm                                                   | 1        | 50.00           | 50.00            |
+| MK8 Copper/Brass Nozzle 1.75mm                                 | Size : 0.6mm                                                   | 1        | 50.00           | 50.00            |
+| GT2 (Rubber with Fiberglass) 6mm Open Timing Belt 1m            |                                                                 | 2        | 290.00          | 580.00           |
+| GT2 20T 20 Teeth 5mm Bore 6mm Width Timing Pulley               | Color : Silver                                                  | 1        | 180.00          | 180.00           |
+| BIGTREETECH TFT35 E3 V3.0 Touch Screen Display for 3D Printers  |                                                                 | 1        | 6,650.00        | 6,650.00         |
