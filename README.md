@@ -16,7 +16,6 @@
 https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf
 
 ## Building Process
-### Procedure
 
 #### Planning and Design Phase
 - Initially, I formulated a plan outlining the design and functionality goals for my DIY 3D printer.
@@ -29,10 +28,6 @@ https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-d
 #### Frame Construction
 - Using aluminum extrusion profiles, M5 screws, and M5 T-nuts, I constructed the frame of the 3D printer.
 - To reinforce the frame structure, I utilized aluminum corner profiles and corner brackets, ensuring stability and durability.
-
-#### (Add More Steps as Needed)
-- Depending on the complexity of your project, you can include additional steps such as assembling electronic components, wiring, firmware installation, calibration, etc.
-
 
 
 ## How does the journey go on
