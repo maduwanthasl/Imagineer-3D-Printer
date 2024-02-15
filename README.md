@@ -65,6 +65,11 @@
 - As part of personalization, I added a custom boot screen to the firmware, reflecting the unique identity of my Imagineer 3D printer.
 - Following firmware installation, I meticulously reviewed and adjusted configuration files to tailor settings to my specific hardware and preferences.
 - Comprehensive testing was conducted to ensure proper functionality and compatibility with the printer's components and features.
+  
+| ![pic 4 2](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/43f977bb-dea9-4219-aacd-391f47b6c93d) | ![IMG_20240215_101749](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/b7a96b0c-6f48-44b7-92c0-ddc28b74ade3) |
+|---|---|
+| Adding extruder motor + hotend | Wiring diagram |
+
 
 ## How do es the journey go on
 
