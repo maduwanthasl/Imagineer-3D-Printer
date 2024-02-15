@@ -54,16 +54,14 @@
 - Connections were secured using appropriate connectors, terminals, or soldering, ensuring reliable electrical connections throughout the printer.
 - Before powering on the printer, a thorough inspection of all wiring connections was conducted to verify correctness and safety.
   
-  
-| ![pic 3 (1)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/e3fd960b-d580-43c4-b25e-4a89f941fa85) | ![pic 3 3](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/726c171e-c5c5-4188-be19-cb50282cc500) |
+| ![pic 4 2](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/43f977bb-dea9-4219-aacd-391f47b6c93d) | ![IMG_20240215_101749](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/b7a96b0c-6f48-44b7-92c0-ddc28b74ade3) |
 |---|---|
-| Adding z motors + x axis  | Adding z axis |
+| Adding extruder motor + hotend | Wiring diagram |
 
 
 ## How do es the journey go on
 
 
-![pic 4](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/cdabe879-2a9b-40f0-b38f-961651d816e3)
 
 
 ## Bill of Materials - Form local sellers
