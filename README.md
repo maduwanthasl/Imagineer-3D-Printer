@@ -13,7 +13,7 @@
 
 ## Final Outcome:
 
-[final outcome.mp4](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf)
+[final outcome.mp4](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf
 
 ## Building Process
 
@@ -24,16 +24,15 @@
 #### Component Selection and Acquisition
 - I compiled a detailed list of components required for building the 3D printer, considering factors such as performance, compatibility, and cost-effectiveness.
 - After finalizing the component list, I proceeded to order the necessary parts from suppliers.
-
+  
 #### Frame Construction 
-<p align="right">
-  <img src="https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/a37b08e0-7458-4cb7-8ffd-4b47f93241cc" alt="pic 2" style="width:40%;">
+
+<p align="center">
+  <img src="https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/a37b08e0-7458-4cb7-8ffd-4b47f93241cc" alt="pic 2" style="width:50%;">
 </p>
 
 - Using aluminum extrusion profiles, M5 screws, and M5 T-nuts, I constructed the frame of the 3D printer.
 - To reinforce the frame structure, I utilized aluminum corner profiles and corner brackets, ensuring stability and durability.
-  
-
 
 ## How does the journey go on
 
@@ -123,4 +122,6 @@
 | Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
 |------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
 | Nema17 17HS4401S 4401 42 stepper motor 1.8° 1.5A 40MM            | 17HS4401, 5PCS                      | 1        | 45.58              | 45.58               |
+
+
 
