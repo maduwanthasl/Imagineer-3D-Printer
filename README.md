@@ -13,7 +13,7 @@
 
 ## Final Outcome:
 
-[final outcome.mp4](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf
+[final outcome.mp4](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf)
 
 ## Building Process
 
@@ -78,7 +78,7 @@
 - Distance calibration of the X, Y, Z axes, and extruder motor was carried out to fine-tune motion accuracy and alignment.
 
 
-## How do es the journey go on
+## How does the journey go on
 
 
 
