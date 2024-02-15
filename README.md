@@ -13,7 +13,7 @@
 
 ## Final Outcome:
 
-https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf
+[final outcome](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-dbec-4fbf-8eaf-94cd0e2501cf)
 
 ## Building Process
 
@@ -25,9 +25,14 @@ https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-d
 - I compiled a detailed list of components required for building the 3D printer, considering factors such as performance, compatibility, and cost-effectiveness.
 - After finalizing the component list, I proceeded to order the necessary parts from suppliers.
 
-#### Frame Construction
+#### Frame Construction 
+<p align="right">
+  <img src="https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/a37b08e0-7458-4cb7-8ffd-4b47f93241cc" alt="pic 2" style="width:40%;">
+</p>
+
 - Using aluminum extrusion profiles, M5 screws, and M5 T-nuts, I constructed the frame of the 3D printer.
 - To reinforce the frame structure, I utilized aluminum corner profiles and corner brackets, ensuring stability and durability.
+  
 
 
 ## How does the journey go on
