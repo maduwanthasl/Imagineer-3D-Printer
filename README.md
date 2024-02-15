@@ -78,10 +78,14 @@
 - Distance calibration of the X, Y, Z axes, and extruder motor was carried out to fine-tune motion accuracy and alignment.
 
 
-## How does the journey go on
+## First printing parts
 
-
-
+| ![pic 6 (2)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/c72b5048-762d-40d4-93fd-366221c29796) | ![pic 6 (4)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/2a34bd8a-6ce7-4312-9e28-b08a2a1400b5) |
+|---|---|
+| Adding extruder motor + hotend | Wiring diagram |
+| ![pic 6 (3)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/e28cb132-76ac-4674-b137-3eab3607ad78) | ![pic 6 (1)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/6afae011-9e0b-47a0-964f-811a3f3c6305) |
+|---|---|
+| Adding extruder motor + hotend | Wiring diagram |
 
 
 
