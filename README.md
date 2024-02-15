@@ -68,7 +68,7 @@
   
 | ![pic 5](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/c1c32763-e674-42f6-8d2c-882260c8661e) | ![pic 5 (2)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/9ace307c-b06e-4ab9-9810-767585fa4acd) |
 |---|---|
-| Adding extruder motor + hotend | Wiring diagram |
+| Bootscreen | LCD screen |
 
 #### Calibration and Testing
 - Following firmware installation, I meticulously reviewed and adjusted configuration files to tailor settings to my specific hardware and preferences.
