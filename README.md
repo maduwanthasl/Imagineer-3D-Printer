@@ -70,6 +70,13 @@
 |---|---|
 | Adding extruder motor + hotend | Wiring diagram |
 
+#### Calibration and Testing
+- Following firmware installation, I meticulously reviewed and adjusted configuration files to tailor settings to my specific hardware and preferences.
+- Comprehensive testing was conducted to ensure proper functionality and compatibility with the printer's components and features.
+- I calibrated the currents of the motor drivers to optimize performance and prevent overheating or skipping steps.
+- Temperature calibration of the hotend was performed to ensure accurate and consistent extrusion temperatures for optimal print quality.
+- Distance calibration of the X, Y, Z axes, and extruder motor was carried out to fine-tune motion accuracy and alignment.
+
 
 ## How do es the journey go on
 
