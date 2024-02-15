@@ -78,7 +78,7 @@
 - Distance calibration of the X, Y, Z axes, and extruder motor was carried out to fine-tune motion accuracy and alignment.
 
 
-## First printing parts
+## Printed parts
 
 | ![pic 6 (2)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/c72b5048-762d-40d4-93fd-366221c29796) | ![pic 6 (4)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/2a34bd8a-6ce7-4312-9e28-b08a2a1400b5) |
 |---|---|
