@@ -174,5 +174,6 @@
 |------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
 | Nema17 17HS4401S 4401 42 stepper motor 1.8° 1.5A 40MM            | 17HS4401, 5PCS                      | 1        | 45.58              | 45.58               |
 
-
+## Parts requied for 3d printer
+ - [x-axis](https://github.com/maduwanthasl/Imagineer-3D-Printer/tree/main/3D%20printed%20parts/x%20axis)
 
