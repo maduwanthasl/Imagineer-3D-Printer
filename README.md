@@ -39,21 +39,31 @@
 #### Adding Y-axis Motion
 - Similar to the X-axis setup, I attached 8mm short linear bearings to the bed frame and installed them through the linear rail.
 - Additionally, I added a Y-axis motor to drive motion along the Y-axis.
-
+  
 | ![pic 3 (1)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/e3fd960b-d580-43c4-b25e-4a89f941fa85) | ![pic 3 3](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/726c171e-c5c5-4188-be19-cb50282cc500) |
 |---|---|
 | Adding z motors + x axis  | Adding z axis |
 
-### Air fresh
-ner and Fan module
-| ![Air freshner module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb.png) | ![Air freshner module 2D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb%202D%20view.png) |
+#### Assembling Electronic Components
+- I installed the extruder motor and TWO TREES Dual Drive BMG Extruder onto the frame, securing them in place.
+- The PTFE tube was connected to the extruder assembly to guide filament to the hotend.
+
+#### Wiring
+- Electrical wiring was carefully routed and connected to the stepper motors, endstops, extruder, display, thermistor, fans, and other electronic components according to the printer's wiring diagram.
+- Each wire was meticulously routed to ensure proper organization and prevent interference with moving parts.
+- Connections were secured using appropriate connectors, terminals, or soldering, ensuring reliable electrical connections throughout the printer.
+- Before powering on the printer, a thorough inspection of all wiring connections was conducted to verify correctness and safety.
+  
+  
+| ![pic 3 (1)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/e3fd960b-d580-43c4-b25e-4a89f941fa85) | ![pic 3 3](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/726c171e-c5c5-4188-be19-cb50282cc500) |
 |---|---|
-| Air freshner module 3D | Air freshner module 2D |
+| Adding z motors + x axis  | Adding z axis |
 
 
 ## How do es the journey go on
 
 
+![pic 4](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/cdabe879-2a9b-40f0-b38f-961651d816e3)
 
 
 ## Bill of Materials - Form local sellers
