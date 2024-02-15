@@ -26,15 +26,35 @@
 - After finalizing the component list, I proceeded to order the necessary parts from suppliers.
   
 #### Frame Construction 
-
 <p align="center">
   <img src="https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/a37b08e0-7458-4cb7-8ffd-4b47f93241cc" alt="pic 2" style="width:50%;">
 </p>
-
 - Using aluminum extrusion profiles, M5 screws, and M5 T-nuts, I constructed the frame of the 3D printer.
 - To reinforce the frame structure, I utilized aluminum corner profiles and corner brackets, ensuring stability and durability.
 
-## How does the journey go on
+#### Attaching Motion Components
+- I attached motor brackets to two Z-axis stepper motors and an X-axis motor, securing them to the frame.
+- Linear rails were installed to support the X-axis motion, along with a hotend holder and other 3D-printed parts for assembly.
+  
+#### Adding Y-axis Motion
+- Similar to the X-axis setup, I attached 8mm short linear bearings to the bed frame and installed them through the linear rail.
+- Additionally, I added a Y-axis motor to drive motion along the Y-axis.
+
+| ![pic 3 (1)](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/e3fd960b-d580-43c4-b25e-4a89f941fa85) | ![pic 3 3](https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/726c171e-c5c5-4188-be19-cb50282cc500) |
+|---|---|
+| Adding z motors + x axis  | Adding z axis |
+
+### Air fresh
+ner and Fan module
+| ![Air freshner module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb.png) | ![Air freshner module 2D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb%202D%20view.png) |
+|---|---|
+| Air freshner module 3D | Air freshner module 2D |
+
+
+## How do es the journey go on
+
+
+
 
 ## Bill of Materials - Form local sellers
 
