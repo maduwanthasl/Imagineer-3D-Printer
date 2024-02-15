@@ -58,6 +58,13 @@
 |---|---|
 | Adding extruder motor + hotend | Wiring diagram |
 
+#### Firmware Installation
+- For my DIY 3D printer, I utilized Marlin firmware version 2.1.2.1, which provides extensive customization options and compatibility with various printer configurations.
+- Additionally, I explored firmware options from the BigTreeTech family, including SKR main board firmware, to evaluate alternative features and optimizations for my printer setup.
+- After selecting the appropriate firmware, I flashed it onto the printer's microcontroller using the recommended flashing tool and procedure.
+- As part of personalization, I added a custom boot screen to the firmware, reflecting the unique identity of my Imagineer 3D printer.
+- Following firmware installation, I meticulously reviewed and adjusted configuration files to tailor settings to my specific hardware and preferences.
+- Comprehensive testing was conducted to ensure proper functionality and compatibility with the printer's components and features.
 
 ## How do es the journey go on
 
