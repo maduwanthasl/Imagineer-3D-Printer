@@ -87,3 +87,35 @@ https://github.com/maduwanthasl/Imagineer-3D-Printer/assets/107339150/551f6159-d
 | 3pins Mini Micro Limit Switch 5A 125~250V 10T85 SPDT Snap Action|                                                           | 3        | 225.00          | 675.00           |
 | 100K Ohm NTC 3950 Thermistors Temperature Sensor With Cable Dupont Head For Heated Bed 3D Printers|                        | 1        | 245.00          | 245.00           |
 
+## Bill of Materials -Ali express
+
+### 1. Joint Board Plate Corner Angle Bracket Connection Joint Strip 90 Degree:
+| Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
+|------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
+| Joint Board Plate Corner Angle Bracket Connection Joint Strip 90 Degree | Color: Silver                        | 8        | 1.43               | 11.21               |
+
+### 2. E3D-V6 J-head Hotend 1.75MM Filament 0.4MM:
+| Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
+|------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
+| E3D-V6 J-head Hotend 1.75MM Filament 0.4MM                       | Long Distance, 24V50W High Power    | 1        | 7.74               | 7.74                |
+
+### 3. DC Cooling FanCentrifugal Blower Fan 12V / 24V:
+| Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
+|------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
+| DC Cooling FanCentrifugal Blower Fan 12V / 24V                   | Brushless 2-Wire Cooling Fan         | 1        | 2.37               | 2.37                |
+
+### 4. 3D Printer Parts 10A 250V Power Switch AC Power Outlet:
+| Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
+|------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
+| 3D Printer Parts 10A 250V Power Switch AC Power Outlet           | With Red Triple Rocker Switch Fused Module Plug | 1 | 2.73               | 2.73                |
+
+### 5. BIGTREETECH BTT SKR MINI E3 V2 Control Board 32bit:
+| Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
+|------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
+| BIGTREETECH BTT SKR MINI E3 V2 Control Board 32bit               | With TMC2209                        | 1        | 26.98              | 26.98               |
+
+### 6. Nema17 17HS4401S 4401 42 stepper motor 1.8° 1.5A 40MM:
+| Component                                                        | Details                              | Quantity | Unit Price (US $) | Total Price (US $) |
+|------------------------------------------------------------------|--------------------------------------|----------|--------------------|---------------------|
+| Nema17 17HS4401S 4401 42 stepper motor 1.8° 1.5A 40MM            | 17HS4401, 5PCS                      | 1        | 45.58              | 45.58               |
+
